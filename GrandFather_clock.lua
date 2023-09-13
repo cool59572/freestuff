@@ -639,3 +639,4 @@ Swing.Part1 = Swing3
 Animator.Archivable = true 
 Animator.Name = "Animator" 
 Animator.Parent = AnimationController
+return Model
